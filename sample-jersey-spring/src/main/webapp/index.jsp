@@ -2,11 +2,10 @@
 
 <html>
 	<head>
-		<title>Hi Paul</title>
+		<title>Test</title>
 	</head>
 
 	<body>
-		Hi Paul...
 		
 		<%
 			User user = new User("xxxx");
