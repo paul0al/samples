@@ -1,4 +1,4 @@
-target
-test-output
-.classpath
-.project
+**/target
+**/test-output
+*/.classpath
+*/.project
